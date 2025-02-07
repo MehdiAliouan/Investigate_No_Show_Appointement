@@ -21,6 +21,9 @@ Exploratory Data Analysis:
 Created histograms to visualize distributions of attributes like age, scholarship, hypertension, diabetes, alcoholism, handicap, and SMS received.
 Divided the dataset into two groups: patients who showed up and those who did not.
 Calculated and compared mean values for attributes across these groups.
-Result: The analysis revealed that age, scholarship status, hypertension, and SMS reminders are significant factors influencing patient attendance. For instance, patients who received SMS reminders were more likely to show up for their appointments.
+
+Result:
+
+The analysis revealed that age, scholarship status, hypertension, and SMS reminders are significant factors influencing patient attendance. For instance, patients who received SMS reminders were more likely to show up for their appointments.
 
 Reflection: This project demonstrates effective data cleaning and analysis techniques. It highlights the importance of communication methods like SMS reminders in improving appointment attendance, providing valuable insights for healthcare providers to enhance patient engagement.
